@@ -11,20 +11,21 @@ JOBS = [
   },
   {
     'id': 2,
-    'title': 'Bar Tender',
-    'location': 'Midway Bar, India',
+    'title': 'Frontend Developer',
+    'location': ' India',
     'salary': 'Rs. 15,00,000'
   },
   {
     'id': 3,
     'title': 'Bike Mechanic',
     'location': 'Betalghat'
+    'salary': 'Rs. 16,00,000'
   },
   {
     'id': 4,
-    'title': 'Backend Engineer',
+    'title': 'Backend Developer',
     'location': 'San Francisco, USA',
-    'salary': '$150,000'
+    'salary': '$15,000'
   }
 ]
 
